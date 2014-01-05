@@ -1,0 +1,10 @@
+when = "2014-01-07T20:00:00-08:00" # iso8601 with timezone
+venue = "Lucky Baldwin's Trappiste Pub & Cafe"
+address = "1770 E Colorado Blvd, Pasadena, United States"
+coordinates = [
+  -118.1138755,
+  34.1457363
+]
+
+[[drinks]]
+# TBD
