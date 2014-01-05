@@ -1,4 +1,5 @@
 language: go
 install:
+  - go get github.com/BurntSushi/toml
   - go get github.com/BurntSushi/toml/tomlv
 script: tomlv ./drinkups/*
