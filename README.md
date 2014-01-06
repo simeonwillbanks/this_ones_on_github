@@ -11,7 +11,7 @@ Drinking :potable_water:, :tea:, :coffee:, :wine_glass:, :cocktail:, :beer:, kom
 ```toml
 when = "2014-01-07T20:00:00-08:00" # iso8601 with timezone
 venue = "Lucky Baldwin's Trappiste Pub & Cafe"
-address = "1770 E Colorado Blvd, Pasadena, United States"
+address = "1770 E Colorado Blvd, Pasadena, California, United States"
 coordinates = [
   -118.1138755,
   34.1457363
