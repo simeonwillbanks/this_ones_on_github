@@ -25,7 +25,7 @@ name = "Lucky Baldwins Red Belgian Ale"
 login = "jch"
 name = "Gulden Draak"
 
-# not alcholoic? totally cool!
+# not alcoholic? totally cool!
 [[drinks]]
 login = "simeonwillbanks"
 name = "Cappuccino"
