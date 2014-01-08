@@ -9,3 +9,11 @@ coordinates = [
 [[drinks]]
 login = "redhotvengeance"
 name = "Guinness"
+
+[[drinks]]
+login = "stevefolta"
+name = "Fullers ESB"
+
+[[drinks]]
+login = "stevefolta"
+name = "Boddingtons"
