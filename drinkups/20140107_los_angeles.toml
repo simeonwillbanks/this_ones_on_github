@@ -17,3 +17,11 @@ name = "Fullers ESB"
 [[drinks]]
 login = "stevefolta"
 name = "Boddingtons"
+
+[[drinks]]
+login = "simeonwillbanks"
+name = "Cuvée Des Trolls"
+
+[[drinks]]
+login = "simeonwillbanks"
+name = "Craftsman Poppyfields Pale Ale"
