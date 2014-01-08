@@ -7,4 +7,5 @@ coordinates = [
 ]
 
 [[drinks]]
-# TBD
+login = "redhotvengeance"
+name = "Guinness"
