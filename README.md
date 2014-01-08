@@ -55,5 +55,5 @@ The people want to know... and **ThisOnesOnGitHub™** is here to help. :bar_cha
  2. Imbibe
  3. [GitHub Flow in the Browser](https://github.com/blog/1557-github-flow-in-the-browser)
 
-### Continuous Integration
+### Continuous Integration [![Build Status](https://travis-ci.org/simeonwillbanks/this_ones_on_github.png?branch=master)](https://travis-ci.org/simeonwillbanks/this_ones_on_github) 
 For Reals B.  When you fat finger your drink entry, [Travis](https://travis-ci.org/simeonwillbanks/this_ones_on_github) got your back.
