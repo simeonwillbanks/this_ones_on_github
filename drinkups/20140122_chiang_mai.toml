@@ -1,0 +1,9 @@
+when = "2014-01-22T20:00:00+07:00" # iso8601 with timezone
+venue = "CUBE"
+address = "14/3 Sirimungklajarn Soi 11, Chiang Mai, Thailand"
+coordinates = [
+  98.972512,
+  18.793550
+]
+
+[[drinks]]
