@@ -1,0 +1,9 @@
+when = "2014-01-16T20:00:00+07:00" # iso8601 with timezone
+venue = "Bangkok Bar"
+address = "The Opus Building, 8th Floor, Thong Lo Soi 10, Bangkok, Thailand"
+coordinates = [
+  100.582751,
+  13.732361
+]
+
+[[drinks]]
