@@ -1,0 +1,9 @@
+when = "2014-01-17T21:00:00-07:00" # iso8601 with timezone
+venue = "The Leprechaun Inn"
+address = "4700 S 900 E # 6 Salt Lake City, Utah 84117-4980"
+coordinates = [
+  -111.83981,
+  40.66933
+]
+
+[[drinks]]
