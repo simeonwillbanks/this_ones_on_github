@@ -1,0 +1,9 @@
+when = "2014-02-11T20:00:00+11:00" # iso8601 with timezone
+venue = "Rainbow Hotel"
+address = "27 St David St, Fitzroy, VIC"
+coordinates = [
+  144.97930884361267,
+  -37.80064591407746
+]
+
+[[drinks]]
